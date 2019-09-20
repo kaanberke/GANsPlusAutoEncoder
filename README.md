@@ -10,7 +10,8 @@ you want to decode the numpy array then you can..
 | Real | Encoded | Predicted | Decoded |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------: 
 ![](images/Real.png) | ![](images/encoded.png) | ![](images/Predicted.png) | ![](images/Decoded.png) |
-<sub><sub><sup>The NNs which helped them to be produced are trained 100 epoch.</sup></sub></sub>
+---
+<sub><sup>The NNs which helped them to be produced are trained 100 epoch.</sup></sub>
 
 **Predicted** one is predicted from encoded image by another 
 neural network which is trained by using predicted images (encoded)
